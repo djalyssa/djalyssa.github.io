@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8ceb557c.css",
-    "main.js": "/static/js/main.6dd45074.js",
+    "main.js": "/static/js/main.6edc50a5.js",
     "static/media/DJ ALYSSA - SOUL VIBE.mp3": "/static/media/DJ ALYSSA - SOUL VIBE.66ff243634cf33f226bc.mp3",
     "static/media/DJ ALYSSA - Летние хиты 2022.mp3": "/static/media/DJ ALYSSA - Летние хиты 2022.f57007fcd690f27cd19b.mp3",
     "static/media/DJ ALYSSA - WORLD DJ DAY.mp3": "/static/media/DJ ALYSSA - WORLD DJ DAY.9a641aff596d8afdf343.mp3",
@@ -42,10 +42,10 @@
     "static/media/EllipseMix.png": "/static/media/EllipseMix.faee171cf4ea956c0cc3.png",
     "index.html": "/index.html",
     "main.8ceb557c.css.map": "/static/css/main.8ceb557c.css.map",
-    "main.6dd45074.js.map": "/static/js/main.6dd45074.js.map"
+    "main.6edc50a5.js.map": "/static/js/main.6edc50a5.js.map"
   },
   "entrypoints": [
     "static/css/main.8ceb557c.css",
-    "static/js/main.6dd45074.js"
+    "static/js/main.6edc50a5.js"
   ]
 }
